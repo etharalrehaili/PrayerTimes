@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+  }
+  
+  h1, h2, p {
+    font-family: 'Harmattan', sans-serif;
+  }
