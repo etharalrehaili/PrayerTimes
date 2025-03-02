@@ -62,4 +62,9 @@ To run this project locally, follow these steps:
 5. Open the app in your browser at http://localhost:5173
 
 
+### Live App 🚀
 
+You can access app here:
+
+[Prayer Times App - Live
+](https://main.d1h75f3rekapco.amplifyapp.com/)
