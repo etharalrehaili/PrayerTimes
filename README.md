@@ -1,6 +1,6 @@
 # Prayer Times 🌤️
 
-This project is a Prayer Times Application built using React.js, TailwindCSS, and the Aladhan API. The app allows users to view prayer times for a selected city, including the next prayer time and countdown until the next prayer.
+This project is a Prayer Times Application built **React.js**, **TailwindCSS** and the **Aladhan API**. The app allows users to view prayer times for a selected city, including the next prayer time and countdown until the next prayer.
 
 ## Features 🎯
 
