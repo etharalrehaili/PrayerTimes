@@ -19,7 +19,7 @@ The application includes the following features:
 
 - **React.js** for the structure of the app.
 - **TailwindCSS** for styling and layout.
-- **OpenWeather API** for fetching prayer times based on the selected city.
+- **Aladhan API** for fetching prayer times based on the selected city.
 - **JavaScript (ES6)** for app logic and functionality.
 
 ### Screenshot 📸
