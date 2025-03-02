@@ -23,7 +23,7 @@ The application includes the following features:
 - **JavaScript (ES6)** for app logic and functionality.
 
 ### Screenshot 📸
-Here’s a preview of how the Todo App looks:
+Here’s a preview of how the PrayerTimes App looks:
 
 ![image](https://github.com/user-attachments/assets/68f3a6d9-eefa-4963-9ab2-4699ce0913bf)
 
